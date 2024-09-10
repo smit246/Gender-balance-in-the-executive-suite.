@@ -3,9 +3,9 @@
 **Diversity & Inclusion**
 
 Calculating the following measures could help to define proper KPIs:
-# of men
-# of women
-# of leavers
+no of men
+no of women
+no of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
